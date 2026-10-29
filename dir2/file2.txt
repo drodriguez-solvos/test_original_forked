@@ -1,1 +1,2 @@
 file2 modificado en el original
+nuevo contenido
